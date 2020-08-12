@@ -85,7 +85,7 @@
 		</dependency>
 
 	</dependencies>
-	
+	<!--
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
@@ -98,7 +98,7 @@
 	      <url>http://13.233.113.232:8081/repository/mt-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
-	
+	-->
 	<build>
 		<finalName>maven-web-application</finalName>
 		<plugins>
